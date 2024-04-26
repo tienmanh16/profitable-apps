@@ -1,8 +1,0 @@
-Giải thích:On average, navigation apps have the highest number of user reviews, but this figure is heavily influenced by Waze and Google Maps, which have close to half a million user reviews together:
-
-The same pattern applies to social networking apps, where the average number is heavily influenced by a few giants like Facebook, Pinterest, Skype, etc. Same applies to music apps, where a few big players like Pandora, Spotify, and Shazam heavily influence the average number.
-
-
-Ở đây nó bảo là ảnh hưởng nặng nề đến average vì giả sử thằng navigation có không gian mẫu là 5 mà tổng số người sử dụng là 10 => average là 2
-còn giả sử thằng reference không gian mẫu là 10 và tổng sử dụng cũng là 10 thì average sẽ là 1 
-==>> ý nó nói cái average sẽ ko đúng cho lắm vì lượng người dùng của 2 trong số 5 không gian mẫu(apps) quá lớn nên ảnh hưởng đến cái average
