@@ -7,7 +7,7 @@
 ## Description
 
 - The project analyzes user data about apps on the App Store and Google Play. Offer solutions and look for profitable applications.
-- This project started from Sep.2023 to Dec.20233
+- This project started from Sep.2023 to Dec.2023
   
 ## Technology
 
